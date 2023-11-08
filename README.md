@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning about computer engineering, I'm a student. I'm interested in learning some cibersecurity stuff.
-My favorite hobby is the music, I love playing, singing and listening to music.
+🌱 I'm a Computer Engineering student at Tecnológico de Costa Rica. I'm an enthusiastic person who can work in a team and have a fluent and eloquent conversation in both Spanish and English. As for the personal part, I am passionate about music, videogames and sports, being part of a garage band and a brassband and practicing cycling and soccer. In the professional field, I am eager to learn new skills, technologies and methodologies. I would like to be able to do the internship in the company and be allowed to grow professionally and personally. 
+
+I have interest in learning Cybersecurity, Software Design, Project Management, Object Oriented Programming.
+
